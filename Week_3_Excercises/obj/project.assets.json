@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JWeiner\\source\\repos\\Week_3_Excercises\\Week_3_Excercises\\Week_3_Excercises.csproj",
-      "projectName": "Week_3_Excercises",
-      "projectPath": "C:\\Users\\JWeiner\\source\\repos\\Week_3_Excercises\\Week_3_Excercises\\Week_3_Excercises.csproj",
+      "projectUniqueName": "C:\\Users\\JWeiner\\source\\repos\\Week_3_Excercises\\Week_3_Excercises\\Week_3_Exercises.csproj",
+      "projectName": "Week_3_Exercises",
+      "projectPath": "C:\\Users\\JWeiner\\source\\repos\\Week_3_Excercises\\Week_3_Excercises\\Week_3_Exercises.csproj",
       "packagesPath": "C:\\Users\\JWeiner\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\JWeiner\\source\\repos\\Week_3_Excercises\\Week_3_Excercises\\obj\\",
       "projectStyle": "PackageReference",
