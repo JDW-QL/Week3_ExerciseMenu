@@ -1,0 +1,16 @@
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\bin\Debug\net5.0\Week_3_Exercises.exe
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\bin\Debug\net5.0\Week_3_Exercises.deps.json
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\bin\Debug\net5.0\Week_3_Exercises.runtimeconfig.json
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\bin\Debug\net5.0\Week_3_Exercises.runtimeconfig.dev.json
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\bin\Debug\net5.0\Week_3_Exercises.dll
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\bin\Debug\net5.0\ref\Week_3_Exercises.dll
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\bin\Debug\net5.0\Week_3_Exercises.pdb
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.AssemblyInfoInputs.cache
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.AssemblyInfo.cs
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.dll
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\ref\Week_3_Exercises.dll
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.pdb
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.genruntimeconfig.cache
+C:\Users\JWeiner\source\repos\Week_3_Excercises\Week_3_Excercises\obj\Debug\net5.0\Week_3_Exercises.csprojAssemblyReference.cache
